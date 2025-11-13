@@ -1,0 +1,28 @@
+{
+    "nubbinsruz": {
+        "files": {
+            "SJUgv2lTShcsMtad": {
+                "filename": "nubbinsruz_example.txt",
+                "mimeType": "text/plain",
+                "size": 12,
+                "uploadTime": 1762647406
+            },
+            "fkxjTH2NgPpfOVnL": {
+                "filename": "nubbinsruz_tree.txt",
+                "mimeType": "text/plain",
+                "size": 12,
+                "uploadTime": 1762656584
+            },
+            "xAahMiCszV6Xmy2o": {
+                "filename": "nubbinsruz_movie.mp4",
+                "mimeType": "video/mp4",
+                "size": 17839845,
+                "uploadTime": 1762650089
+            }
+        },
+        "hash": "06c1a39d"
+    },
+    "username": {
+        "hash": "5f5a1db8"
+    }
+}
